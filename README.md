@@ -1,4 +1,4 @@
-#a dark mode implementation using the api context
+# A dark mode implementation using the api contexte
 ![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/blob/main/screenshots/d.PNG)
 ![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/blob/main/screenshots/l.PNG)
 
