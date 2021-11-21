@@ -1,3 +1,7 @@
+![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/Screenshots/l.PNG)
+![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/Screenshots/d.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
