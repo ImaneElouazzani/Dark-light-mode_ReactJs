@@ -1,5 +1,5 @@
-![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/Screenshots/l.PNG)
-![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/Screenshots/d.PNG)
+![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/screenshots/l.PNG)
+![screen1](https://github.com/ImaneElouazzani/Dark-light-mode_ReactJs/screenshots/d.PNG)
 
 
 # Getting Started with Create React App
